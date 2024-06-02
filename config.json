@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
     "email": "m",
-    "password": "ariyan12@com",
+    "password": "killian 14",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,14 +17,14 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100009439611947", "100094189827824"],
+    "", "100091289477923"],
   "whiteListMode": {
     "enable": false,
-    "whiteListIds": ["100081894480123","100094189827824"],
+    "whiteListIds": ["",""],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": " ASH BORN ",
-  "prefix": "-",
+  "prefix": "/",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
@@ -35,7 +35,7 @@
   "timeZone": "Asia/Kathmandu",
   "credentials": {
     "gmailAccount": {
-      "email": "xemonbae@gmail.com",
+      "email": "kamgasobkillianberyl@gmail.com",
       "clientId": "703210852639-ic8u4br6bdo6jg6dgguirqi7jkgbpl6l.apps.googleusercontent.com",
       "clientSecret": "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",
       "refreshToken": "1//04svAaCtGHs-ICgYIARAAGAQSNwF-L9IrjiQvNzr409HIVspHncIVnrz7ZI5VxTU3dvw5TwHLZi1BhYEwEJNs9YpLDm7xDEBt1fU",
